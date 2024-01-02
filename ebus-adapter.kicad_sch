@@ -1,0 +1,31 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 9e6bd863-61bd-4551-8bd8-ac6a5e26a0ef)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 27.94 24.13) (size 22.86 17.78) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid a2183148-6690-49c3-a9e1-1a41bb32fd70)
+    (property "Sheetname" "Ebus-To-UART" (at 27.94 23.4184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Ebus-To-UART.kicad_sch" (at 27.94 42.4946 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "ebus-adapter"
+        (path "/9e6bd863-61bd-4551-8bd8-ac6a5e26a0ef" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
