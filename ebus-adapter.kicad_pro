@@ -23,15 +23,15 @@
         },
         "fab_line_width": 0.09999999999999999,
         "fab_text_italic": false,
-        "fab_text_size_h": 1.0,
-        "fab_text_size_v": 1.0,
-        "fab_text_thickness": 0.15,
+        "fab_text_size_h": 0.5,
+        "fab_text_size_v": 0.5,
+        "fab_text_thickness": 0.09999999999999999,
         "fab_text_upright": false,
         "other_line_width": 0.15,
         "other_text_italic": false,
-        "other_text_size_h": 1.0,
-        "other_text_size_v": 1.0,
-        "other_text_thickness": 0.15,
+        "other_text_size_h": 0.5,
+        "other_text_size_v": 0.5,
+        "other_text_thickness": 0.09999999999999999,
         "other_text_upright": false,
         "pads": {
           "drill": 0.762,
@@ -40,9 +40,9 @@
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
-        "silk_text_size_h": 1.0,
-        "silk_text_size_v": 1.0,
-        "silk_text_thickness": 0.15,
+        "silk_text_size_h": 0.5,
+        "silk_text_size_v": 0.5,
+        "silk_text_thickness": 0.09999999999999999,
         "silk_text_upright": false,
         "zones": {
           "min_clearance": 0.0
@@ -471,10 +471,6 @@
     [
       "9e6bd863-61bd-4551-8bd8-ac6a5e26a0ef",
       ""
-    ],
-    [
-      "a2183148-6690-49c3-a9e1-1a41bb32fd70",
-      "Ebus-To-UART"
     ]
   ],
   "text_variables": {}

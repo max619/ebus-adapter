@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ebus-adapter-library")(type "KiCad")(uri "${KIPRJMOD}/ebus-adapter-library.kicad_sym")(options "")(descr ""))
+)
